@@ -57,7 +57,7 @@ Tourism & Hospitality Industry Analysis Dataset
 - Compare model performance using evaluation metrics.
 - Interpret feature importance and predictions.
 
-**Status:** 🔄 In Progress
+**Status:** ✅ Completed
 
 ---
 
@@ -68,4 +68,4 @@ Tourism & Hospitality Industry Analysis Dataset
 - Update GitHub repository with all project files.
 - Prepare the final project report and presentation.
 
-**Status:** ⏳ Pending
+**Status:** ✅ Completed
